@@ -1,7 +1,7 @@
-return {
-""
-}
-
-return {
-""
+{
+    "39A8F6C4-AFB5-4008-A943-157C540ECA96": {
+        "length": "1 month",
+        "startDate": "2024-07-07T00:00:00Z",
+        "endDate": "2024-08-07T00:00:00Z"
+    }
 }
